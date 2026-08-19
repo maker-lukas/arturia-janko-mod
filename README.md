@@ -6,11 +6,9 @@
 
 This is a Janko layout mod for the Arturia Minilab 3, designed in FreeCAD. The Janko keyboard layout makes the keys in a honeycomb pattern where each row is offset by a half step, making scales and chords the same shape regardless of position
 
-The mod replaces the stock keys with 3D printed Janko keys.
+The mod replaces the normal keys with 3D printed Janko keys.
 
 ## BOM
-
-See [BOM.csv](BOM.csv) for the full parts list.
 
 Part | Quantity | Price | Link
 --- | --- | --- | ---
@@ -19,8 +17,6 @@ Part | Quantity | Price | Link
 Arturia Minilab 3 | 1 | ~$100 | [arturia.com](https://www.arturia.com/products/hardware-synths/minilab-3)
 
 **Total:** ~$100 + filament
-
-## Printing
 
 ## Overview
 
