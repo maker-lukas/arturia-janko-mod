@@ -4,7 +4,7 @@
 
 ---
 
-This is a Janko layout mod for the Arturia Minilab 3, designed in FreeCAD. The Janko keyboard layout makes the keys in a honeycomb pattern where each row is offset by a half step, making scales and chords the same shape regardless of position
+This is a Janko layout mod for the Arturia Minilab 3, made in FreeCAD. The Janko keyboard layout makes the keys in a hexagon pattern where each row is offset by a half step, making scales and chords the same shape regardless of position in the key bed.
 
 The mod replaces the normal keys with 3D printed Janko keys.
 
@@ -20,14 +20,24 @@ Arturia Minilab 3 | 1 | ~$100 | [arturia.com](https://www.arturia.com/products/h
 
 ## Overview
 
-**CAD Model**
+**keys**
 
-![CAD Model](Images/cad-model.png)
-
-**key**
-
-![key](Images/key.jpg)
+| Angle |
+|:-----:|
+| ![angle](/Images/IMG_8471.JPG) |
+| **Side** |
+| ![side](/Images/IMG_8472.JPG) |
+| **Top** |
+| ![top](/Images/IMG_8473.JPG) |
+|  |
+| **Cad** |
+| **Angle** |
+| ![CAD Model](Images/cad.png) |
+| **Side** |
+| ![CAD Model 2](Images/cad2.png) |
+| **Keycap** |
+| ![CAD Keycap](Images/keycap.png) |
 
 **Zine**
 
-[![zine](Images/zine.png)](Images/zine.pdf)
+![zine](/Images/zine.png)
