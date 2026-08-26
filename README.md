@@ -12,8 +12,8 @@ The mod replaces the normal keys with 3D printed Janko keys.
 
 Part | Quantity | Price | Link
 --- | --- | --- | ---
-3D Printed Keys | 61 | N/A | N/A
-3D Printed Frame | 1 | N/A | N/A
+3D Printed Keys | 25 | N/A | N/A
+3D Printed Keycaps | 50 | N/A | N/A
 Arturia Minilab 3 | 1 | ~$100 | [arturia.com](https://www.arturia.com/products/hardware-synths/minilab-3)
 
 **Total:** ~$100 + filament
