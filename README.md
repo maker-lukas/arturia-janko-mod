@@ -8,6 +8,8 @@ This is a Janko layout mod for the Arturia Minilab 3, made in FreeCAD. The Janko
 
 The mod replaces the normal keys with 3D printed Janko keys.
 
+[Demo video!](https://youtube.com/watch?v=jq85WJ6aUpQ)
+
 ## BOM
 
 Part | Quantity | Price | Link
